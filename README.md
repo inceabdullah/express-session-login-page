@@ -14,11 +14,15 @@ In this project, login page is made with next.js on React.js. Login button and c
 
 ## Export and Move
 
+in ./express-session-login-page/frontend
+
 `yarn export`
 
 `mv out/ ../.`
 
-## Running 
+## Running
+
+in ./express-session-login-page
 
 `yarn start`
 
